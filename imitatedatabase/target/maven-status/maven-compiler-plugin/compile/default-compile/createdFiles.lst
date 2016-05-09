@@ -1,0 +1,17 @@
+imitatedatabase\getCustAdd.class
+imitatedatabase\loginDB.class
+imitatedatabase\ordersDB.class
+imitatedatabase\placeOrder.class
+imitatedatabase\getApt.class
+imitatedatabase\getZipCode.class
+imitatedatabase\postdel.class
+imitatedatabase\getStreetName.class
+imitatedatabase\getCity.class
+imitatedatabase\getStateRegion.class
+imitatedatabase\getFullNam.class
+imitatedatabase\getEmailId.class
+imitatedatabase\loginfn.class
+imitatedatabase\itemstodel.class
+imitatedatabase\signupfn.class
+imitatedatabase\getContactNumber.class
+imitatedatabase\viewordersgn.class
